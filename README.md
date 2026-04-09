@@ -17,8 +17,19 @@
 - 🎓 **Computer Science** undergraduate at UNISINOS (Expected: 2028).
 - 🔌 Electronics Technician from Fundação Liberato, with a strong background in **Embedded Systems**, microcontrollers (ST, ESP), and Hardware/Software integration.
 - 🔬 Proven ability in R&D, developing **Python tools for real-time data visualization** and contributing to cryptographic algorithms.
-- 🏆 Bronze Medalist and Honorable Mentions at the Brazilian Public School Mathematics Olympiad (OBMEP), Honorable Mention in the Kangaroo Mathematics Competition, and participant in the Brazil ICPC Programming Marathon.
+- 🏆 **Competitive Programming & Mathematics:** Proud participant in the prestigious **Brazil ICPC Programming Marathon**. Competed 3 times in the Unisinos Code@Night marathon, achieving a standout **4th place**. Also recognized with a Bronze Medal and Honorable Mentions in the Brazilian Mathematics Olympiad (OBMEP).
 - 🚀 Seeking opportunities as a **Junior Developer**, focused on leveraging data-driven insights and programming logic to solve complex enterprise challenges.
+
+<br>
+
+## 🌟 Featured Repository
+
+<div align="center">
+  <p>Check out my main repository where I document my studies and projects!</p>
+  <a href="https://github.com/TobiasOKlein/Learning-Journey" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Learning--Journey-0059b3?style=for-the-badge&logo=github&logoColor=white" alt="Learning Journey Repository" height="40">
+  </a>
+</div>
 
 <br>
 
