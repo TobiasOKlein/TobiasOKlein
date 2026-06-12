@@ -7,7 +7,7 @@
 
 <!-- Typing Animation in blue tone -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0059b3&center=true&vCenter=true&width=600&lines=C%2FC%2B%2B+and+Python+Developer;Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0059b3&center=true&vCenter=true&width=600&lines=Software+Developer;Computer+Science+Student" alt="Typing SVG" />
 </h3>
 
 <br>
@@ -17,7 +17,7 @@
 - 🎓 **Computer Science** undergraduate at UNISINOS (Expected: 2028).
 - 🔌 Electronics Technician from Fundação Liberato, with a strong background in **Embedded Systems**, microcontrollers (ST, ESP), and Hardware/Software integration.
 - 🔬 Proven ability in R&D, developing **Python tools for real-time data visualization** and contributing to cryptographic algorithms.
-- 🏆 **Competitive Programming & Mathematics:** Proud participant in the prestigious **Brazil ICPC Programming Marathon**. Competed 3 times in the Unisinos Code@Night marathon, achieving a standout **4th place**. Also recognized with a Bronze Medal and Honorable Mentions in the Brazilian Mathematics Olympiad (OBMEP).
+- 🏆 **Competitive Programming & Mathematics:** Proud participant in the prestigious **Brazil ICPC Programming Marathon**. Competed 4 times in the Unisinos Code@Night marathon, achieving a standout **4th place**. Also recognized with a Bronze Medal and Honorable Mentions in the Brazilian Mathematics Olympiad (OBMEP).
 - 🚀 Seeking opportunities as a **Junior Developer**, focused on leveraging data-driven insights and programming logic to solve complex enterprise challenges.
 
 <br>
